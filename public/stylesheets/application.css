@@ -1,0 +1,12 @@
+html {
+	background-color: #1b1b1b;
+}
+
+body {
+	background-color: transparent !important;
+	margin: auto !important;
+}
+
+#content {
+	padding-top: 40px;
+}
